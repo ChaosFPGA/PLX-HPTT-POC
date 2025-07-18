@@ -53,10 +53,12 @@ This repository documents a **budget HPTT (Hybrid PCIe Trace Tool)** build using
 - 🪟 **Windows 10/11** (for host testing)
 - 🧪 **DRVScan / Ekknod tools** (for stealth validation)
 
+---
+
 📫 Contact
-Project Owner: Markus Halvorsen (ChaosFPGA)
-Discord: @ChaosFPGA
-Server: https://discord.gg/bC4yurCppH
-Private GitHub: This repo is not listed publicly for now
+- Project Owner: Markus Halvorsen (ChaosFPGA)
+- Discord: @ChaosFPGA
+- Server: https://discord.gg/bC4yurCppH
+- Private GitHub: This repo is not listed publicly for now
 
 ---
